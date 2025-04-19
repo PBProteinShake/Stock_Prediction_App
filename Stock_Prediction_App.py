@@ -1,4 +1,4 @@
-pip install streamlit yfinance scikit-learn plotly
+!pip install streamlit yfinance scikit-learn plotly
 # Need to type "streamlit run Stock_Prediction_app.py on terminal (This is being done on VScode)"
 import streamlit as st
 from datetime import date
